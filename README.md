@@ -27,13 +27,13 @@ pip install selenium beautifulsoup4
 ## Instalasi
 1. Clone repositori ini:
    ```sh
-   git clone https://github.com/username/repo-name.git
+   git clone https://github.com/salaryanpa.git
    cd repo-name
    ```
 2. Pastikan ChromeDriver sudah tersedia di direktori proyek atau di path sistem.
 3. Jalankan skrip menggunakan perintah berikut:
    ```sh
-   python scraper.py
+   python main.py
    ```
 
 ## Penggunaan
